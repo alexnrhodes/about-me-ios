@@ -1,3 +1,3 @@
 # About Me
 
-This is an iOS app called about me.
+This is an iOS app all about me.
